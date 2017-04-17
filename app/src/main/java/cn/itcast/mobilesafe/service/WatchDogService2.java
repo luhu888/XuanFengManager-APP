@@ -47,7 +47,7 @@ public class WatchDogService2 extends Service {
 	}
 	/**
 	 * 远程代理对象,继承Binder并实现远程接口
-	 * @author superboy
+	 * @author luhu
 	 *
 	 */
 	private class MyBinder extends Binder implements IService{
@@ -90,7 +90,7 @@ public class WatchDogService2 extends Service {
 	}
 	/**
 	 *  内容观察者Uri.parse("content://cn.itcast.mobile/applock")
-	 * @author superboy
+	 * @author luhu
 	 *
 	 */
 	private class AppLockObserver extends ContentObserver{
