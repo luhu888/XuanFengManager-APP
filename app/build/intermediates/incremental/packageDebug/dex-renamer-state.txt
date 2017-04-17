@@ -1,0 +1,7 @@
+#Tue Apr 18 00:00:51 CST 2017
+base.0=E\:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e35de80b4fb215f3a79455f0a67d4a5c7ea628e7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_455bbe27f3d86dbec2f48689a6189aeb46db2ef1\\classes.dex
+base.1=E\:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_455bbe27f3d86dbec2f48689a6189aeb46db2ef1
+file.0=E\:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e35de80b4fb215f3a79455f0a67d4a5c7ea628e7\\classes.dex
