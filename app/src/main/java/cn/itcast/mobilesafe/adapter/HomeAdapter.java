@@ -24,7 +24,7 @@ public class HomeAdapter extends BaseAdapter {
 	private static final String[] names={"手机防盗","通讯卫士","软件管理","进程管理","流量统计",
 		"手机杀毒","系统清理","高级工具","设置中心"};
 	
-	private static final int[] icons={R.drawable.safe,R.drawable.callmsgsafe,R.drawable.app,R.drawable.taskmanager,R.drawable.netmanager,
+	private static final int[] icons={R.drawable.safe,R.drawable.callmsgsafe1,R.drawable.app,R.drawable.taskmanager,R.drawable.netmanager,
 		R.drawable.trojan,R.drawable.sysoptimize,R.drawable.atools,R.drawable.settings
 	};
 	public int getCount() {

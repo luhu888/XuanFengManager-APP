@@ -121,7 +121,7 @@ ADDED from E:\GitHub\apache-tomcat-7.0.73\webapps\ROOT\mobilesafe12\app\src\main
 	android:label
 		ADDED from E:\GitHub\apache-tomcat-7.0.73\webapps\ROOT\mobilesafe12\app\src\main\AndroidManifest.xml:38:9-41
 	android:icon
-		ADDED from E:\GitHub\apache-tomcat-7.0.73\webapps\ROOT\mobilesafe12\app\src\main\AndroidManifest.xml:37:9-45
+		ADDED from E:\GitHub\apache-tomcat-7.0.73\webapps\ROOT\mobilesafe12\app\src\main\AndroidManifest.xml:37:9-46
 	android:theme
 		ADDED from E:\GitHub\apache-tomcat-7.0.73\webapps\ROOT\mobilesafe12\app\src\main\AndroidManifest.xml:39:9-62
 	android:name

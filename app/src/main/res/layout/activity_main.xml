@@ -14,9 +14,9 @@
             android:padding="2dip"
             android:id="@+id/tv_main_title"
             android:layout_width="fill_parent"
-            android:layout_height="fill_parent"
+            android:layout_height="match_parent"
             android:gravity="center"
-            android:text="神 马 卫 士"
+            android:text="旋 风 管 家"
             android:textColor="#ffffff"
             android:textSize="18.0dip" />
     </LinearLayout>
@@ -29,8 +29,7 @@
             android:id="@+id/iv_main_icon"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentRight="true"
-            android:src="@drawable/notification" />
+            android:layout_alignParentRight="true" />
 
         <cn.itcast.mobilesafe.ui.FocusedTextView
             android:layout_width="200dip"
@@ -38,7 +37,7 @@
             android:layout_toLeftOf="@id/iv_main_icon"
             android:ellipsize="marquee"
             android:singleLine="true"
-            android:text="我是手机的神马卫士,我可以,时刻保护您的移动安全" />
+            android:text="我是旋风管家,我可以时刻保护您的移动安全" />
     </RelativeLayout>
 
     <GridView
@@ -46,7 +45,7 @@
         android:id="@+id/gv_main"
         android:numColumns="3"
         android:layout_width="fill_parent"
-        android:layout_height="fill_parent" >
+        android:layout_height="476dp" >
     </GridView>
 
 </LinearLayout>

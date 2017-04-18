@@ -128,6 +128,10 @@
         "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\tab3.png"
     },
     {
+        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\callmsgsafe1.png",
+        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\callmsgsafe1.png"
+    },
+    {
         "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setup1.png",
         "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\setup1.png"
     },

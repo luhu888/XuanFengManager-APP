@@ -4,9 +4,9 @@
     <color name="gray">#22000000</color>
     <color name="white">#ffffff</color>
     <declare-styleable name="setting_view"><attr format="string" name="title"/><attr format="string" name="content"/></declare-styleable>
-    <string name="app_name">神马护卫</string>
+    <string name="app_name">旋风管家</string>
     <string name="hello">Hello World, SplashActivity!</string>
-    <string name="serverurl">http://192.168.1.5:8080/update.xml</string>
+    <string name="serverurl">http://192.168.1.5:8080/mobilesafe/update.json</string>
     <string name="tips">开启后<b>用户可以远程锁屏 <i>可以清除数据</i></b></string>
     <style name="Theme" parent="android:Theme"/>
     <style name="Theme.Transparent">

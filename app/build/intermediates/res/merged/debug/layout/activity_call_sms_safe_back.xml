@@ -27,8 +27,7 @@
             android:id="@+id/iv_call_sms_safe_icon"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentRight="true"
-            android:src="@drawable/notification" />
+            android:layout_alignParentRight="true" />
 
         <cn.itcast.mobilesafe.ui.FocusedTextView
             android:layout_width="200dip"
@@ -36,7 +35,7 @@
             android:layout_toLeftOf="@id/iv_call_sms_safe_icon"
             android:ellipsize="marquee"
             android:singleLine="true"
-            android:text="我是手机的神马卫士,点击我可以添加黑名单号码" />
+            android:text="我是旋风管家,点击我可以添加黑名单号码" />
     </RelativeLayout>
 
     <FrameLayout
