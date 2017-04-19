@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Apr 19 23:31:04 CST 2017
+#Wed Apr 19 23:58:56 CST 2017
 122.file=E\:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\netmanager.png
 60.set=ANDROID_RESOURCE
 52.set=ANDROID_RESOURCE
