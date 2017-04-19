@@ -92,7 +92,7 @@
             android:launchMode="singleInstance" >
         </activity>
 		<activity android:name=".TaskManagerActivity"></activity>
-		<activity android:name=".WebViewLoadHtml"></activity>
+		<activity android:name=".WebViewLoadHtmlActivity"></activity>
 		<activity android:name=".SystemOptActivity"></activity>
 		<activity android:name=".CleanCacheActivity"></activity>
 		<activity android:name=".CleanSDActivity"></activity>

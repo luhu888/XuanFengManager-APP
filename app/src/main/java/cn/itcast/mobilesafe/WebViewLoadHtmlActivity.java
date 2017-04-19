@@ -10,7 +10,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Toast;
 
-public class WebViewLoadHtml extends Activity {
+public class WebViewLoadHtmlActivity extends Activity {
 	private String url;
 	WebView webView;
 	@Override
