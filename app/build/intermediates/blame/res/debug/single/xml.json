@@ -1,10 +1,18 @@
 [
     {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\xml\\example_appwidget_info.xml",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\xml\\example_appwidget_info.xml"
+    },
+    {
         "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_sample.xml",
         "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\xml\\device_admin_sample.xml"
     },
     {
         "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\xml\\example_appwidget_info.xml",
         "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\xml\\example_appwidget_info.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_sample.xml",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\xml\\device_admin_sample.xml"
     }
 ]

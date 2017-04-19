@@ -5,40 +5,33 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="88077345522026"
+    timestamp="89977036443516"
     token="-6824667202366857258"
-    verifier="COMPATIBLE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="5097" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="1839" />
     <task
         name="verifier"
-        duration="0" />
+        duration="1386" />
 
     <artifact
-        location="E:\GitHub\apache-tomcat-7.0.73\webapps\ROOT\mobilesafe12\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="E:\AndroidStudioProjects\mobilesafeV\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="87657725285743"
+        timestamp="89977036443516"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="E:\GitHub\apache-tomcat-7.0.73\webapps\ROOT\mobilesafe12\app\build\outputs\apk\app-debug.apk"
+            location="E:\AndroidStudioProjects\mobilesafeV\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="88077345522026"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="E:\GitHub\apache-tomcat-7.0.73\webapps\ROOT\mobilesafe12\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>

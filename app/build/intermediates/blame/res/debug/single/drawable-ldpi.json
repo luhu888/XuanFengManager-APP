@@ -2,5 +2,9 @@
     {
         "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
         "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
     }
 ]

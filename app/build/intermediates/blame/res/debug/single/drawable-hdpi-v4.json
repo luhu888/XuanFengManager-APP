@@ -1,10 +1,18 @@
 [
     {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\b.bmp",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\b.bmp"
+    },
+    {
         "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo2.jpg",
         "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\logo2.jpg"
     },
     {
         "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\b.bmp",
         "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\b.bmp"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo2.jpg",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\logo2.jpg"
     }
 ]

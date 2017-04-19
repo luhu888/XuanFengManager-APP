@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\menu\\app_lock_menu.xml",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\menu\\app_lock_menu.xml"
+    },
+    {
         "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\menu\\app_lock_menu.xml",
         "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\menu\\app_lock_menu.xml"
     }

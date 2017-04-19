@@ -2,5 +2,9 @@
     {
         "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ylzs.mp3",
         "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\raw\\ylzs.mp3"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ylzs.mp3",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\raw\\ylzs.mp3"
     }
 ]

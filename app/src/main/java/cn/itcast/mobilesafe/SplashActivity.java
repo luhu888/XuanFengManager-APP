@@ -189,7 +189,7 @@ public class SplashActivity extends Activity {
 	
 	/**
 	 * 拷贝文件到系统目录
-	 * @author Administrator
+	 * @author luhu
 	 *
 	 */
 	private class CopyFileTask implements Runnable{

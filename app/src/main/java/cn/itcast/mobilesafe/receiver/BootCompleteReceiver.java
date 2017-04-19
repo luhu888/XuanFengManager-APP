@@ -30,12 +30,12 @@ public class BootCompleteReceiver extends BroadcastReceiver {
 		//1. 
 		NotificationManager nm = (NotificationManager) context.getSystemService(Context.NOTIFICATION_SERVICE);
 		
-		Notification no = new Notification(R.drawable.notification, "神马护卫护卫您", System.currentTimeMillis());
+		Notification no = new Notification(R.drawable.notification, "旋风管家保护您", System.currentTimeMillis());
 		no.flags = Notification.FLAG_NO_CLEAR;//设置后，消息点击后 不会消失
 		Intent homeIntent = new Intent(context,HomeActivity.class);
 		homeIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);//非activity中启动另一个activity必须要加
 		PendingIntent contentIntent = PendingIntent.getActivity(context, 0, homeIntent, 0);
-		no.setLatestEventInfo(context, "我是神马护卫", "护卫您的手机", contentIntent);
+		no.setLatestEventInfo(context, "我是旋风管家", "护卫您的手机", contentIntent);
 		
 		nm.notify(0, no);
 		

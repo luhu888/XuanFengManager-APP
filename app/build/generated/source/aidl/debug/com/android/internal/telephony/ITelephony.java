@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\aidl\\com\\android\\internal\\telephony\\ITelephony.aidl
+ * Original file: E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\aidl\\com\\android\\internal\\telephony\\ITelephony.aidl
  */
 package com.android.internal.telephony;
 /**

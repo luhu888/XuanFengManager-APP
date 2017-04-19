@@ -1,7 +1,7 @@
-#Tue Apr 18 22:27:08 CST 2017
-base.0=E\:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e35de80b4fb215f3a79455f0a67d4a5c7ea628e7
+#Tue Apr 18 23:06:08 CST 2017
+base.0=E\:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_55f47018fb1052a110c2d0ec63cb5df779d3d4da
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=E\:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_455bbe27f3d86dbec2f48689a6189aeb46db2ef1\\classes.dex
-base.1=E\:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_455bbe27f3d86dbec2f48689a6189aeb46db2ef1
-file.0=E\:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e35de80b4fb215f3a79455f0a67d4a5c7ea628e7\\classes.dex
+file.1=E\:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8a7fe8130762bdc5c9fed3240b2bea2556bbd314\\classes.dex
+base.1=E\:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8a7fe8130762bdc5c9fed3240b2bea2556bbd314
+file.0=E\:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_55f47018fb1052a110c2d0ec63cb5df779d3d4da\\classes.dex
