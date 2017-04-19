@@ -13,7 +13,6 @@
 
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
@@ -34,7 +33,7 @@
     <uses-permission android:name="android.permission.DELETE_CACHE_FILES"/>
 
     <application
-        android:icon="@drawable/callmsgsafe1"
+        android:icon="@drawable/callmsgsafe"
         android:label="@string/app_name"
         android:theme="@android:style/Theme.Light.NoTitleBar" android:name="MyApplication">
         <uses-library android:name="android.test.runner" />
@@ -93,7 +92,7 @@
             android:launchMode="singleInstance" >
         </activity>
 		<activity android:name=".TaskManagerActivity"></activity>
-		<activity android:name=".TrafficManagerActivity"></activity>
+		<activity android:name=".WebViewLoadHtml"></activity>
 		<activity android:name=".SystemOptActivity"></activity>
 		<activity android:name=".CleanCacheActivity"></activity>
 		<activity android:name=".CleanSDActivity"></activity>

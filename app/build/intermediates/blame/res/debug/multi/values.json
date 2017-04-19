@@ -1,351 +1,5 @@
 [
     {
-        "outputFile": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 39,
-                    "endOffset": 90
-                },
-                "from": {
-                    "file": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 95,
-                        "endColumn": 39,
-                        "endOffset": 130
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 95,
-                    "endColumn": 40,
-                    "endOffset": 131
-                },
-                "from": {
-                    "file": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 56,
-                        "endColumn": 40,
-                        "endOffset": 92
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 136,
-                    "endColumn": 39,
-                    "endOffset": 171
-                },
-                "from": {
-                    "file": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 39,
-                        "endOffset": 90
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 314,
-                    "endColumn": 41,
-                    "endOffset": 351
-                },
-                "from": {
-                    "file": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 123,
-                        "endColumn": 41,
-                        "endOffset": 160
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 356,
-                    "endColumn": 62,
-                    "endOffset": 414
-                },
-                "from": {
-                    "file": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 59,
-                        "endColumn": 62,
-                        "endOffset": 117
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 419,
-                    "endColumn": 84,
-                    "endOffset": 499
-                },
-                "from": {
-                    "file": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\values\\config.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 57,
-                        "endColumn": 84,
-                        "endOffset": 137
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 504,
-                    "endColumn": 65,
-                    "endOffset": 565
-                },
-                "from": {
-                    "file": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 166,
-                        "endColumn": 65,
-                        "endOffset": 227
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 570,
-                    "endColumn": 48,
-                    "endOffset": 614
-                },
-                "from": {
-                    "file": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 52,
-                        "startColumn": 4,
-                        "startOffset": 2267,
-                        "endColumn": 55,
-                        "endOffset": 2318
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 619,
-                    "endLine": 17,
-                    "endColumn": 12,
-                    "endOffset": 1011
-                },
-                "from": {
-                    "file": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 54,
-                        "startColumn": 4,
-                        "startOffset": 2326,
-                        "endLine": 60,
-                        "endColumn": 12,
-                        "endOffset": 2724
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1016,
-                    "endLine": 27,
-                    "endColumn": 12,
-                    "endOffset": 1552
-                },
-                "from": {
-                    "file": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 1245,
-                        "endLine": 40,
-                        "endColumn": 12,
-                        "endOffset": 1790
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 1557,
-                    "endLine": 36,
-                    "endColumn": 12,
-                    "endOffset": 2010
-                },
-                "from": {
-                    "file": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 42,
-                        "startColumn": 4,
-                        "startOffset": 1798,
-                        "endLine": 50,
-                        "endColumn": 12,
-                        "endOffset": 2259
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 37,
-                    "startColumn": 4,
-                    "startOffset": 2015,
-                    "endLine": 39,
-                    "endColumn": 12,
-                    "endOffset": 2168
-                },
-                "from": {
-                    "file": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 1082,
-                        "endLine": 29,
-                        "endColumn": 12,
-                        "endOffset": 1237
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 40,
-                    "startColumn": 4,
-                    "startOffset": 2173,
-                    "endLine": 42,
-                    "endColumn": 12,
-                    "endOffset": 2322
-                },
-                "from": {
-                    "file": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 923,
-                        "endLine": 25,
-                        "endColumn": 12,
-                        "endOffset": 1074
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 43,
-                    "startColumn": 4,
-                    "startOffset": 2327,
-                    "endLine": 47,
-                    "endColumn": 12,
-                    "endOffset": 2570
-                },
-                "from": {
-                    "file": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 668,
-                        "endLine": 21,
-                        "endColumn": 12,
-                        "endOffset": 915
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 48,
-                    "startColumn": 4,
-                    "startOffset": 2575,
-                    "endLine": 50,
-                    "endColumn": 12,
-                    "endOffset": 2756
-                },
-                "from": {
-                    "file": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 62,
-                        "startColumn": 4,
-                        "startOffset": 2732,
-                        "endLine": 64,
-                        "endColumn": 12,
-                        "endOffset": 2915
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 51,
-                    "startColumn": 4,
-                    "startOffset": 2761,
-                    "endLine": 55,
-                    "endColumn": 12,
-                    "endOffset": 3010
-                },
-                "from": {
-                    "file": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 407,
-                        "endLine": 15,
-                        "endColumn": 12,
-                        "endOffset": 660
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 56,
-                    "startColumn": 4,
-                    "startOffset": 3015,
-                    "endLine": 62,
-                    "endColumn": 12,
-                    "endOffset": 3349
-                },
-                "from": {
-                    "file": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 59,
-                        "endLine": 9,
-                        "endColumn": 12,
-                        "endOffset": 399
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
@@ -448,8 +102,8 @@
                     "startLine": 8,
                     "startColumn": 4,
                     "startOffset": 419,
-                    "endColumn": 84,
-                    "endOffset": 499
+                    "endColumn": 82,
+                    "endOffset": 497
                 },
                 "from": {
                     "file": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\values\\config.xml",
@@ -457,8 +111,8 @@
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 57,
-                        "endColumn": 84,
-                        "endOffset": 137
+                        "endColumn": 82,
+                        "endOffset": 135
                     }
                 }
             },
@@ -466,9 +120,9 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 504,
+                    "startOffset": 502,
                     "endColumn": 65,
-                    "endOffset": 565
+                    "endOffset": 563
                 },
                 "from": {
                     "file": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\values\\strings.xml",
@@ -485,9 +139,9 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 570,
+                    "startOffset": 568,
                     "endColumn": 48,
-                    "endOffset": 614
+                    "endOffset": 612
                 },
                 "from": {
                     "file": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\values\\styles.xml",
@@ -504,10 +158,10 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 619,
+                    "startOffset": 617,
                     "endLine": 17,
                     "endColumn": 12,
-                    "endOffset": 1011
+                    "endOffset": 1009
                 },
                 "from": {
                     "file": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\values\\styles.xml",
@@ -525,10 +179,10 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1016,
+                    "startOffset": 1014,
                     "endLine": 27,
                     "endColumn": 12,
-                    "endOffset": 1552
+                    "endOffset": 1550
                 },
                 "from": {
                     "file": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\values\\styles.xml",
@@ -546,10 +200,10 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1557,
+                    "startOffset": 1555,
                     "endLine": 36,
                     "endColumn": 12,
-                    "endOffset": 2010
+                    "endOffset": 2008
                 },
                 "from": {
                     "file": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\values\\styles.xml",
@@ -567,10 +221,10 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 2015,
+                    "startOffset": 2013,
                     "endLine": 39,
                     "endColumn": 12,
-                    "endOffset": 2168
+                    "endOffset": 2166
                 },
                 "from": {
                     "file": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\values\\styles.xml",
@@ -588,10 +242,10 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 2173,
+                    "startOffset": 2171,
                     "endLine": 42,
                     "endColumn": 12,
-                    "endOffset": 2322
+                    "endOffset": 2320
                 },
                 "from": {
                     "file": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\values\\styles.xml",
@@ -609,10 +263,10 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 2327,
+                    "startOffset": 2325,
                     "endLine": 47,
                     "endColumn": 12,
-                    "endOffset": 2570
+                    "endOffset": 2568
                 },
                 "from": {
                     "file": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\values\\styles.xml",
@@ -630,10 +284,10 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 2575,
+                    "startOffset": 2573,
                     "endLine": 50,
                     "endColumn": 12,
-                    "endOffset": 2756
+                    "endOffset": 2754
                 },
                 "from": {
                     "file": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\values\\styles.xml",
@@ -651,10 +305,10 @@
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 2761,
+                    "startOffset": 2759,
                     "endLine": 55,
                     "endColumn": 12,
-                    "endOffset": 3010
+                    "endOffset": 3008
                 },
                 "from": {
                     "file": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\values\\styles.xml",
@@ -672,10 +326,10 @@
                 "to": {
                     "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 3015,
+                    "startOffset": 3013,
                     "endLine": 62,
                     "endColumn": 12,
-                    "endOffset": 3349
+                    "endOffset": 3347
                 },
                 "from": {
                     "file": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\values\\styles.xml",

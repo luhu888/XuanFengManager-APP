@@ -10,6 +10,7 @@ import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.View;
 import android.view.View.OnClickListener;
+import android.webkit.WebView;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.Button;
@@ -77,7 +78,7 @@ public class HomeActivity extends Activity implements OnClickListener {
 					
 					break;
 				case 4:
-					intent = new Intent(HomeActivity.this,TrafficManagerActivity.class);
+					intent = new Intent(HomeActivity.this,WebViewLoadHtml.class);
 					startActivity(intent);
 					
 					break;

@@ -304,7 +304,7 @@ public class SplashActivity extends Activity {
 
 		Log.i(TAG, "显示更新提示对话框");
 		AlertDialog.Builder buidler = new Builder(this);
-		buidler.setIcon(R.drawable.notification);
+//		buidler.setIcon(R.drawable.notification);
 		buidler.setTitle("升级提示");
 		buidler.setMessage(updateInfo.getDescription());
 		buidler.setOnCancelListener(new OnCancelListener() {//后退键    事件 

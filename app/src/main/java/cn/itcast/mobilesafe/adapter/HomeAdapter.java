@@ -21,7 +21,7 @@ public class HomeAdapter extends BaseAdapter {
 		this.context = context;
 	}
 
-	private static final String[] names={"手机防盗","通讯卫士","软件管理","进程管理","流量统计",
+	private static final String[] names={"手机防盗","通讯卫士","软件管理","进程管理","关于我们",
 		"手机杀毒","系统清理","高级工具","设置中心"};
 	
 	private static final int[] icons={R.drawable.safe,R.drawable.callmsgsafe1,R.drawable.app,R.drawable.taskmanager,R.drawable.netmanager,

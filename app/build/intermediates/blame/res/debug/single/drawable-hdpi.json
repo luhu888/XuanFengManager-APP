@@ -1,203 +1,11 @@
 [
     {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\unlock.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\unlock.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_icon_security.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\list_icon_security.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\marker_add_checked.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\marker_add_checked.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab2.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\tab2.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\appmgr_system_app_uninstall_normal.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\appmgr_system_app_uninstall_normal.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_green.9.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\call_locate_green.9.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img3.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\img3.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\phone.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\phone.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_bg_green.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\button_bg_green.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\widget_bg_portrait_child_divider.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait_child_divider.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\atools.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\atools.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\netmanager.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\netmanager.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img2.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\img2.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\widget_bg_portrait.9.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait.9.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sysoptimize.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\sysoptimize.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\marker_add_unchecked.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\marker_add_unchecked.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\listview_devider.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\listview_devider.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bind.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\bind.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\jiantou1.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\jiantou1.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_orange.9.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\call_locate_orange.9.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\atools.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\atools.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lock.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\lock.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\widget_bg_portrait_child_divider.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait_child_divider.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab1.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\tab1.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\listview_devider.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\listview_devider.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\appmgr_system_app_uninstall_pressed.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\appmgr_system_app_uninstall_pressed.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bind.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\bind.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_green.9.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\call_locate_green.9.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_gray.9.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\call_locate_gray.9.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lock.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\lock.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab3.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\tab3.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\callmsgsafe1.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\callmsgsafe1.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sysoptimize.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\sysoptimize.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setup1.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\setup1.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img3.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\img3.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_icon_security.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\list_icon_security.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_icon_risk.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\list_icon_risk.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settings.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_white.9.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\call_locate_white.9.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_gray.9.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\call_locate_gray.9.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab1.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\tab1.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\trojan.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\trojan.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\marker_add_unchecked.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\marker_add_unchecked.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img2.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\img2.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\taskmanager.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\taskmanager.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setup1.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\setup1.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\netmanager.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\netmanager.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edit.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\edit.png"
-    },
-    {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settings.png",
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
     },
     {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\trojan.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\trojan.png"
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_icon_security.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\list_icon_security.png"
     },
     {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notification.png",
@@ -216,36 +24,40 @@
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\callmsgsafe1.png"
     },
     {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_blue.9.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\call_locate_blue.9.png"
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_bg_green.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\button_bg_green.png"
     },
     {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_orange.9.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\call_locate_orange.9.png"
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\netmanager.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\netmanager.png"
     },
     {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\next.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\next.png"
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img2.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\img2.png"
     },
     {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app.png",
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\app.png"
     },
     {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\callmsgsafe.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\callmsgsafe.png"
-    },
-    {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\marker_add_unchecked.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\marker_add_unchecked.png"
     },
     {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_icon_risk.png",
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\list_icon_risk.png"
     },
     {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\local_popup_bg.9.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\local_popup_bg.9.png"
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\listview_devider.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\listview_devider.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bind.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\bind.png"
     },
     {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\phone.png",
@@ -256,6 +68,14 @@
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait.9.png"
     },
     {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_orange.9.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\call_locate_orange.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\atools.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\atools.png"
+    },
+    {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\safe.png",
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\safe.png"
     },
@@ -264,36 +84,28 @@
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\tab3.png"
     },
     {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\app.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\widget_bg_portrait_child.9.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait_child.9.png"
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\widget_bg_portrait_child_divider.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait_child_divider.png"
     },
     {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\local_popup_bg.9.png",
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\local_popup_bg.9.png"
     },
     {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_bg_green.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\button_bg_green.png"
-    },
-    {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\callmsgsafe.png",
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\callmsgsafe.png"
     },
     {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notification.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\notification.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img1.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\img1.png"
-    },
-    {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\appmgr_system_app_uninstall_normal.png",
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\appmgr_system_app_uninstall_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_green.9.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\call_locate_green.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lock.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\lock.png"
     },
     {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\jiantou1.png",
@@ -308,6 +120,10 @@
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\marker_add_checked.png"
     },
     {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sysoptimize.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\sysoptimize.png"
+    },
+    {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_scanner_malware.png",
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\ic_scanner_malware.png"
     },
@@ -316,55 +132,55 @@
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\unlock.png"
     },
     {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img3.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\img3.png"
     },
     {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab2.png",
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\tab2.png"
     },
     {
-        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_bg_green_on.png",
-        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\button_bg_green_on.png"
-    },
-    {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edit.png",
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\edit.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_bg_green_on.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\button_bg_green_on.png"
     },
     {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\appmgr_system_app_uninstall_pressed.png",
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\appmgr_system_app_uninstall_pressed.png"
     },
     {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\taskmanager.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\taskmanager.png"
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_white.9.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\call_locate_white.9.png"
     },
     {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_white.9.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\call_locate_white.9.png"
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_gray.9.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\call_locate_gray.9.png"
     },
     {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img1.png",
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\img1.png"
     },
     {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_scanner_malware.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\ic_scanner_malware.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\previous.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\previous.png"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_bg_green_on.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\button_bg_green_on.png"
-    },
-    {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_blue.9.png",
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\call_locate_blue.9.png"
     },
     {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\safe.png",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\drawable-hdpi\\safe.png"
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab1.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\tab1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\trojan.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\trojan.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\taskmanager.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\taskmanager.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setup1.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\drawable-hdpi\\setup1.png"
     }
 ]

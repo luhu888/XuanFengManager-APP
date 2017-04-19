@@ -194,7 +194,7 @@ public class SettingCenterActivity extends Activity implements OnClickListener {
 	 */
 	private void showChangeBgDialog() {
 		AlertDialog.Builder builder = new Builder(this);
-		builder.setIcon(R.drawable.notification);
+//		builder.setIcon(R.drawable.notification);
 		builder.setTitle("更改归属地提示风格");
 		int which = sp.getInt("which", 0);
 		builder.setSingleChoiceItems(items, which, new DialogInterface.OnClickListener() {

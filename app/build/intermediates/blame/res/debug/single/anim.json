@@ -1,39 +1,15 @@
 [
     {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tran_shownext_out.xml",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\anim\\tran_shownext_out.xml"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_in.xml",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\anim\\alpha_in.xml"
-    },
-    {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_out.xml",
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\anim\\alpha_out.xml"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\anim\\shake.xml"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_out.xml",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\anim\\alpha_out.xml"
     },
     {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_in.xml",
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\anim\\alpha_in.xml"
     },
     {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\anim\\cycle_7.xml"
-    },
-    {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tran_shownext_out.xml",
         "source": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\src\\main\\res\\anim\\tran_shownext_out.xml"
-    },
-    {
-        "merged": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tran_shownext_in.xml",
-        "source": "E:\\GitHub\\apache-tomcat-7.0.73\\webapps\\ROOT\\mobilesafe12\\app\\src\\main\\res\\anim\\tran_shownext_in.xml"
     },
     {
         "merged": "E:\\AndroidStudioProjects\\mobilesafeV\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tran_shownext_in.xml",
