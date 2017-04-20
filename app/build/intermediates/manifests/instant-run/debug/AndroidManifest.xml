@@ -9,14 +9,13 @@
         android:minSdkVersion="8"
         android:targetSdkVersion="8" />
 
-    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
-
     <instrumentation
         android:name="android.test.InstrumentationTestRunner"
         android:targetPackage="cn.itcast.mobilesafe" />
 
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />

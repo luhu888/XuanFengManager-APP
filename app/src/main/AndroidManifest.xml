@@ -13,6 +13,7 @@
 
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
@@ -91,13 +92,13 @@
             android:excludeFromRecents="true"
             android:launchMode="singleInstance" >
         </activity>
-		<activity android:name=".TaskManagerActivity"></activity>
-		<activity android:name=".WebViewLoadHtmlActivity"></activity>
-		<activity android:name=".SystemOptActivity"></activity>
-		<activity android:name=".CleanCacheActivity"></activity>
-		<activity android:name=".CleanSDActivity"></activity>
-		<activity android:name=".CleanStartupActivity"></activity>
-		<activity android:name=".AntiVirusActivity"></activity>
+        <activity android:name=".TaskManagerActivity"></activity>
+        <activity android:name=".WebViewLoadHtmlActivity"></activity>
+        <activity android:name=".SystemOptActivity"></activity>
+        <activity android:name=".CleanCacheActivity"></activity>
+        <activity android:name=".CleanSDActivity"></activity>
+        <activity android:name=".CleanStartupActivity"></activity>
+        <activity android:name=".AntiVirusActivity"></activity>
         <service android:name=".service.ShowAddressService" >
         </service>
         <service android:name=".service.CallSmsFirewallService" >
@@ -106,7 +107,7 @@
         </service>
         <service android:name=".service.WatchDogService2" >
         </service>
-		<service android:name=".service.UpdateWidgetService"></service>
+        <service android:name=".service.UpdateWidgetService"></service>
         <receiver android:name=".receiver.OutCallReceiver" >
             <intent-filter android:priority="1000" >
                 <action android:name="android.intent.action.NEW_OUTGOING_CALL" />

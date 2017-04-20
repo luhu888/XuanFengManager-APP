@@ -55,7 +55,7 @@ public class AppManagerActivity extends Activity {
 			}
 
 			/**
-			 * 
+			 *
 			 * @param view
 			 * @param firstVisibleItem
 			 *            .
@@ -63,7 +63,7 @@ public class AppManagerActivity extends Activity {
 			 * @param totalItemCount
 			 */
 			public void onScroll(AbsListView view, int firstVisibleItem,
-					int visibleItemCount, int totalItemCount) {
+								 int visibleItemCount, int totalItemCount) {
 				int position = lv_appmanger.getFirstVisiblePosition();
 				if (userAppInfos != null&& systemAppInfos!=null) {
 					if (position < userAppInfos.size()) {
@@ -182,7 +182,7 @@ public class AppManagerActivity extends Activity {
 
 	/**
 	 * 获取手机sd卡可用的空间
-	 * 
+	 *
 	 * @return
 	 */
 	private String getAvailSD() {
@@ -197,7 +197,7 @@ public class AppManagerActivity extends Activity {
 
 	/**
 	 * 获取手机sd卡可用的空间
-	 * 
+	 *
 	 * @return
 	 */
 	private String getAvailRom() {
