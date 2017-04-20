@@ -390,7 +390,7 @@ public class AppManagerActivity2 extends Activity implements OnClickListener {
 		intent.addCategory("android.intent.category.DEFAULT");
 		intent.setType("text/plain");
 		intent.putExtra(Intent.EXTRA_TEXT, "推荐您使用一款软件,名称为:" + appinfo.getName()
-				+ "下载地址,url:http://xxx.xxx");
+				+ "下载地址,url:https://github.luhu888/phone");
 		startActivity(intent);
 	}
 
