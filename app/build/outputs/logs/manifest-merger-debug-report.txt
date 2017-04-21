@@ -40,10 +40,6 @@ uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from E:\AndroidStudioProjects\mobilesafeV\app\src\main\AndroidManifest.xml:15:5-79
 	android:name
 		ADDED from E:\AndroidStudioProjects\mobilesafeV\app\src\main\AndroidManifest.xml:15:22-76
-uses-permission#android.permission.ACCESS_MOCK_LOCATION
-ADDED from E:\AndroidStudioProjects\mobilesafeV\app\src\main\AndroidManifest.xml:16:5-79
-	android:name
-		ADDED from E:\AndroidStudioProjects\mobilesafeV\app\src\main\AndroidManifest.xml:16:22-76
 uses-permission#android.permission.INTERNET
 ADDED from E:\AndroidStudioProjects\mobilesafeV\app\src\main\AndroidManifest.xml:17:5-67
 	android:name
