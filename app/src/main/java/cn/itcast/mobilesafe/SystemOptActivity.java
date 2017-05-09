@@ -36,7 +36,7 @@ public class SystemOptActivity extends TabActivity {
 		tab3.setIndicator(getIndicatorView(R.drawable.tab3, "启动加速"));
 		Intent intent3 = new Intent(this,CleanStartupActivity.class);
 		tab3.setContent(intent3);
-		
+
 		mTabHost.addTab(tab1);
 		mTabHost.addTab(tab2);
 		mTabHost.addTab(tab3);
